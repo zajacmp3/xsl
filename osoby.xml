@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<osoby xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="GrupaStudentow.xsd" >
+<grupaStudentow>
+  <student plec="m" >
+    <imie>Jan</imie>
+    <nazwisko>Kowalski</nazwisko>
+ <nrDowodu>DD 1234590</nrDowodu>
+<wiek> 21 </wiek>
+<punkty> 50 </punkty>
+  </student>
+  <student plec="k" >
+<imie>Anna</imie>   
+<nazwisko>Nowicka</nazwisko>
+    <nrDowodu>DD 1234567</nrDowodu>
+<wiek> 23 </wiek>
+<punkty> 100</punkty>
+  </student>
+  <student plec="m" >
+    <imie>Tadeusz</imie>
+<nazwisko>Abacki</nazwisko>
+    <nrDowodu>DB 7654321</nrDowodu>
+    <wiek> 24 </wiek>
+<punkty> 80</punkty>
+  </student>
+  <student plec="k" >
+    <imie>Ewa</imie>
+    <nrDowodu>DB 1122334</nrDowodu>
+    <nazwisko>Babacka</nazwisko>
+ <wiek> 22 </wiek>
+ <punkty> 75</punkty>
+  </student>
+  <student plec="m" >
+    <nazwisko>Cabacki</nazwisko>
+    <imie>Henryk</imie>
+<wiek> 20 </wiek>
+<punkty> 10</punkty>
+  </student>
+</grupaStudentow>
+
+<grupaPracownikow>
+
+<pracownik plec="m" >
+<imie> Jan</imie>
+<nazwisko> Janowski</nazwisko>
+<nr_prac> 89523</nr_prac>
+<wiek> 40 </wiek>
+</pracownik>
+
+<pracownik plec="m" >
+>
+<imie> Marek</imie>
+<nazwisko> Markowski</nazwisko>
+<nr_prac> 89511</nr_prac>
+<wiek> 50 </wiek>
+</pracownik>
+
+<pracownik plec="m" >
+>
+<imie> Jola</imie>
+<nazwisko> Jolinska</nazwisko>
+<nr_prac> 24511</nr_prac>
+<wiek> 35 </wiek>
+</pracownik>
+</grupaPracownikow>
+
+</osoby>
